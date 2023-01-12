@@ -53,9 +53,8 @@
 	</entry>
 	<entry>
 		<category term='filter'></category>
-		<title>Mail Filter</title>
-		<id>tag:mail.google.com,2008:filter:1249682098394</id>
-		<updated>2009-12-09T20:44:01Z</updated>
+		<title>Mail Filter</title>Spacebook 
+	</updated>
 		<content></content>
 		<apps:property name='from' value='bugzilla-daemon@mozilla.org'/>
 		<apps:property name='to' value='clouserw@gmail.com'/>
